@@ -1,0 +1,1 @@
+const e={key:"v-0fc4ca18",path:"/yunling/manual/api/server.html",title:"API",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"API test",slug:"api-test",children:[]}],git:{updatedTime:1647064178e3,contributors:[{name:"zhangyan36",email:"zhangyan36@58ganji.com",commits:1}]},filePathRelative:"yunling/manual/api/server.md"};export{e as data};

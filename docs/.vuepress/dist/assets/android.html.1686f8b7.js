@@ -1,0 +1,1 @@
+import{k as e,l as d,I as a,p as o}from"./vendor.c0e21dd6.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const t={},s={id:"data-android-sdk",tabindex:"-1"},c=a("a",{class:"header-anchor",href:"#data-android-sdk","aria-hidden":"true"},"#",-1),n=o(" DATA Android SDK"),_=[c,n];function i(h,l){return e(),d("h1",s,_)}var m=r(t,[["render",i]]);export{m as default};

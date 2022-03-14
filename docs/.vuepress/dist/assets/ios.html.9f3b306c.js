@@ -1,0 +1,1 @@
+const a={key:"v-2eb6b7c8",path:"/yunling/manual/sdk/player/ios.html",title:"Player ios SDK",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647064178e3,contributors:[{name:"zhangyan36",email:"zhangyan36@58ganji.com",commits:1}]},filePathRelative:"yunling/manual/sdk/player/ios.md"};export{a as data};

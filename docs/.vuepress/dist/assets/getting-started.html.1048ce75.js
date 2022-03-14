@@ -1,0 +1,1 @@
+const t={key:"v-16e23d18",path:"/yunling/guide/getting-started.html",title:"\u6700\u7B80\u5355\u7684\u63A5\u5165\u65B9\u5F0F",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647064178e3,contributors:[{name:"zhangyan36",email:"zhangyan36@58ganji.com",commits:1}]},filePathRelative:"yunling/guide/getting-started.md"};export{t as data};

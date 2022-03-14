@@ -1,0 +1,1 @@
+import{k as e,l as s,I as o,p as t}from"./vendor.c0e21dd6.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const r={},d={id:"data-ios-sdk",tabindex:"-1"},c=o("a",{class:"header-anchor",href:"#data-ios-sdk","aria-hidden":"true"},"#",-1),_=t(" DATA ios SDK"),n=[c,_];function i(h,l){return e(),s("h1",d,n)}var m=a(r,[["render",i]]);export{m as default};

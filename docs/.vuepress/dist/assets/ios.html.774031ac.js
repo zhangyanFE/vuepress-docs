@@ -1,0 +1,1 @@
+const a={key:"v-d440ac1a",path:"/yunling/manual/sdk/data/ios.html",title:"DATA ios SDK",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647064178e3,contributors:[{name:"zhangyan36",email:"zhangyan36@58ganji.com",commits:1}]},filePathRelative:"yunling/manual/sdk/data/ios.md"};export{a as data};
