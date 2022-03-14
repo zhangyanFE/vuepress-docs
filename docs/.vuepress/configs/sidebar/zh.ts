@@ -6,17 +6,17 @@ export const zh: SidebarConfig = {
       text: '指南',
       children: [
         '/guide/README.md',
-        '/guide/getting-started.md',
-        '/guide/configuration.md',
-        '/guide/page.md',
-        '/guide/markdown.md',
-        '/guide/assets.md',
-        '/guide/i18n.md',
-        '/guide/deployment.md',
-        '/guide/theme.md',
-        '/guide/plugin.md',
-        '/guide/bundler.md',
-        '/guide/migration.md',
+        // '/guide/getting-started.md',
+        // '/guide/configuration.md',
+        // '/guide/page.md',
+        // '/guide/markdown.md',
+        // '/guide/assets.md',
+        // '/guide/i18n.md',
+        // '/guide/deployment.md',
+        // '/guide/theme.md',
+        // '/guide/plugin.md',
+        // '/guide/bundler.md',
+        // '/guide/migration.md',
       ],
     },
   ],
@@ -50,6 +50,7 @@ export const zh: SidebarConfig = {
               text: 'iOS',
               link: '/yunling/manual/sdk/data/ios.md'
             }
+
           ]
         },
         {
